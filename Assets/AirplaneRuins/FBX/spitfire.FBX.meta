@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 198f8c0b288594c13b9b21d5b510e8f5
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Body_skelleton
+  - first:
+      1: 100002
+    second: Body_plates
+  - first:
+      1: 100010
+    second: //RootNode
+  - first:
+      4: 400000
+    second: Body_skelleton
+  - first:
+      4: 400002
+    second: Body_plates
+  - first:
+      4: 400010
+    second: //RootNode
+  - first:
+      23: 2300000
+    second: Body_skelleton
+  - first:
+      23: 2300002
+    second: Body_plates
+  - first:
+      33: 3300000
+    second: Body_skelleton
+  - first:
+      33: 3300002
+    second: Body_plates
+  - first:
+      43: 4300000
+    second: body
+  - first:
+      43: 4300002
+    second: Box03
+  - first:
+      43: 4300004
+    second: Object01
+  - first:
+      43: 4300006
+    second: Object02
+  - first:
+      43: 4300008
+    second: Object03
+  - first:
+      43: 4300010
+    second: Propel
+  - first:
+      43: 4300012
+    second: Object04
+  - first:
+      43: 4300014
+    second: Wing
+  - first:
+      43: 4300016
+    second: Wheel
+  - first:
+      43: 4300018
+    second: nose
+  - first:
+      43: 4300020
+    second: Object06
+  - first:
+      43: 4300022
+    second: Object08
+  - first:
+      43: 4300024
+    second: body01
+  - first:
+      43: 4300026
+    second: Object07
+  - first:
+      43: 4300028
+    second: Object05
+  - first:
+      43: 4300030
+    second: wing lodret
+  - first:
+      43: 4300032
+    second: wing vandret
+  - first:
+      43: 4300034
+    second: Bodylodret
+  - first:
+      43: 4300036
+    second: Body vandret
+  - first:
+      43: 4300038
+    second: wing plates
+  - first:
+      43: 4300040
+    second: body_plates
+  - first:
+      43: 4300042
+    second: Object09
+  - first:
+      43: 4300044
+    second: cockpit vandret
+  - first:
+      43: 4300046
+    second: Shape01
+  - first:
+      43: 4300048
+    second: wing plates01
+  - first:
+      43: 4300050
+    second: body_plates01
+  - first:
+      43: 4300052
+    second: body_plates_flip
+  - first:
+      43: 4300054
+    second: wing plates flip
+  - first:
+      43: 4300056
+    second: Object10
+  - first:
+      43: 4300058
+    second: Object11
+  - first:
+      43: 4300060
+    second: Body skelleton
+  - first:
+      43: 4300062
+    second: Body_plates
+  - first:
+      43: 4300064
+    second: Body_skelleton
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 5
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
